@@ -1,4 +1,5 @@
-# Build and Deploy a Full Stack MERN AI Image Generation App  MidJourney & DALL E Clone
-![Image Generation App](https://i.ibb.co/p0f27C2/Thumbnail-9.png)
+## AI-Image-Generator
 
-### Launch your development career with project-based coaching - https://www.jsmastery.pro
+Backend - https://ai-image-generator-4l51.onrender.com
+Frontend - https://ai-image-generator-mocha.vercel.app/
+
